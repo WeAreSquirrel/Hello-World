@@ -1,5 +1,5 @@
 Hello-World
 ===========
 
-Peter Piper Pick a Peck of Pickled Peppers.
+Peter Piper Picked a Peck of Pickled Peppers.
 Sally sells seashells by the sea shore.
